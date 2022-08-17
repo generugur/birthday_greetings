@@ -11,8 +11,8 @@ NAME = None
 
 def send_mail():
     global NAME
-    my_email = "pythonegitim02@hotmail.com"
-    password = "assd6462d"
+    my_email = "your email"
+    password = "your password"
     list_messages = [
         "bd_letter_1.txt",
         "bd_letter_2.txt",
