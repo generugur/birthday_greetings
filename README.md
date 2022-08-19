@@ -4,10 +4,14 @@
 
 1. The e-mail address and password will be written as the inputs of the send_mail() function.
 
-    `def send_mail():
+    ```
+    def send_mail():
+    
       global NAME
+      
       my_email = "your email"
-      password = "your password"`
+      
+      password = "your password" 
     
 2. In the birthday.csv file, write your friends' names, e-mail addresses, year of birth, month and day in csv format.
 
